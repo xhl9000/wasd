@@ -3,7 +3,7 @@ while not game:IsLoaded() do
   wait(10)
 end
 wait (5)
-plr = game.Players.LocalPlayer
+plr = game.Players.StarBurstStream0_0
 hum = plr.Character.HumanoidRootPart
 hum.CFrame = CFrame.new(-971.146057, 59.9670563, -903.007751, -0.707134247, 0, -0.707079291, 0, 1, 0, 0.707079291, 0, -0.707134247)
 wait(0.5)
